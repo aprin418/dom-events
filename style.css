@@ -1,0 +1,20 @@
+.container {
+    color: red;
+}
+
+#title {
+    font-style: italic;
+    font-size: 100px;
+}
+
+#one {
+    color: blue;
+}
+
+#two {
+    color: orange;
+}
+
+.three {
+    color: green;
+}
